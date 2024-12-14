@@ -1,0 +1,32 @@
+.minibox{
+    display: flex;
+    justify-content: center;
+}
+
+.box1{
+    text-align: center;
+}
+
+ .header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("images/bg-header-desktop.png");
+} 
+
+.header img{
+    width: 100px;
+    height: 100px;
+margin: 50px;
+margin-top: 60px;
+}
+
+.but-ios{
+    border-radius: 50px;
+    padding: 20px;
+background-color:hsl(171, 66%, 44%) ;
+
+
+
+}
+
